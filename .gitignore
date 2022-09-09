@@ -1,0 +1,57 @@
+.gradle
+/.idea/
+/build/
+*.lock
+
+#################
+## idea
+#################
+.idea/*
+.idea
+*.iml
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.gradle/
+.loadpath
+
+# Mac crap
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# build
+build/
+*/build/*
+out/
+
+# other
+conf/
+
+# maven
+.mvn/
+
+# class
+target/
